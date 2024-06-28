@@ -1,7 +1,7 @@
 # luppux-is-dead
 
 - BU BOTLAR RAMAL VE KAPSENT TARAFINDAN 11.O5.2024 TARİHİNDE PAYLAŞILMIŞTTIR
-  ![image]([https://cdn.discordapp.com/attachments/1221008663573954632/1256311539992887508/image.png?ex=66804ecc&is=667efd4c&hm=7510d361b69fe43edf841f1a73daea636615be6f9da08c1c8f8aea93aa92c686&](https://cdn.discordapp.com/attachments/1221008663573954632/1256311539992887508/image.png?ex=66804ecc&is=667efd4c&hm=7510d361b69fe43edf841f1a73daea636615be6f9da08c1c8f8aea93aa92c686&) KANKA COLUK COCUKSUNUZ LA
+![image](https://cdn.discordapp.com/attachments/1221008663573954632/1256311539992887508/image.png?ex=66804ecc&is=667efd4c&hm=7510d361b69fe43edf841f1a73daea636615be6f9da08c1c8f8aea93aa92c686&) KANKA COLUK COCUKSUNUZ LA
 - cok sıkıcısınız
 ```
 ███████╗███████╗██╗      █████╗ ███╗   ███╗
